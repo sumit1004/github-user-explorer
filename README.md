@@ -18,9 +18,9 @@ GitHub User Explorer is a modern frontend web application that allows users to s
 ##  Tech Stack
 
 ### Frontend
-- HTML5  
-- CSS3  
-- Vanilla JavaScript (ES6)
+- HTML
+- CSS
+- JavaScript 
 
 ### APIs
 - GitHub REST API v3
